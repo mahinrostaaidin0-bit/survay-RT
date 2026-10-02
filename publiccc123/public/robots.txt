@@ -1,6 +1,0 @@
-# این فایل باید روی ریشه دامنه (مثلاً https://yoursite.com/robots.txt) قرار بگیره،
-# نه داخل پوشه html. وقتی سایت رو هاست کردی، این فایل رو به ریشه هاست منتقل کن.
-User-agent: *
-Allow: /
-
-Sitemap: https://example.com/sitemap.xml

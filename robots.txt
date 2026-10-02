@@ -1,0 +1,5 @@
+# این فایل باید کنار index.html در ریشه‌ی سایت باشد.
+User-agent: *
+Allow: /
+
+Sitemap: https://example.com/sitemap.xml
